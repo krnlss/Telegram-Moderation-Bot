@@ -13,4 +13,4 @@ Note: Admin permissions are required for the bot to function!
                          All commands except the latter should be replied to the user for them to work! 
                          
 Setting Up:
-Go to config.py and change the admin ID and the bot token :)
+Go to config.py and change the admin ID and the bot token :D
